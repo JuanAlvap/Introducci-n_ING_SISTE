@@ -1,0 +1,252 @@
+[
+    {
+        "codigo": "EST001",
+        "nombre": "Juan Perez",
+        "edad": 20
+    },
+    {
+        "codigo": "EST002",
+        "nombre": "Maria Gomez",
+        "edad": 21
+    },
+    {
+        "codigo": "EST003",
+        "nombre": "Carlos Rodriguez",
+        "edad": 22
+    },
+    {
+        "codigo": "EST004",
+        "nombre": "Ana Martinez",
+        "edad": 20
+    },
+    {
+        "codigo": "EST005",
+        "nombre": "Luis Fernandez",
+        "edad": 19
+    },
+    {
+        "codigo": "EST006",
+        "nombre": "Carmen Lopez",
+        "edad": 23
+    },
+    {
+        "codigo": "EST007",
+        "nombre": "Jose Sanchez",
+        "edad": 21
+    },
+    {
+        "codigo": "EST008",
+        "nombre": "Laura Ramirez",
+        "edad": 22
+    },
+    {
+        "codigo": "EST009",
+        "nombre": "Miguel Torres",
+        "edad": 20
+    },
+    {
+        "codigo": "EST010",
+        "nombre": "Lucia Morales",
+        "edad": 21
+    },
+    {
+        "codigo": "EST011",
+        "nombre": "Javier Herrera",
+        "edad": 22
+    },
+    {
+        "codigo": "EST012",
+        "nombre": "Andrea Mendoza",
+        "edad": 23
+    },
+    {
+        "codigo": "EST013",
+        "nombre": "Diego Castro",
+        "edad": 20
+    },
+    {
+        "codigo": "EST014",
+        "nombre": "Sofia Ruiz",
+        "edad": 19
+    },
+    {
+        "codigo": "EST015",
+        "nombre": "David Rivas",
+        "edad": 22
+    },
+    {
+        "codigo": "EST016",
+        "nombre": "Gabriela Vega",
+        "edad": 21
+    },
+    {
+        "codigo": "EST017",
+        "nombre": "Pablo Ramos",
+        "edad": 23
+    },
+    {
+        "codigo": "EST018",
+        "nombre": "Carolina Reyes",
+        "edad": 20
+    },
+    {
+        "codigo": "EST019",
+        "nombre": "Emilio Dominguez",
+        "edad": 22
+    },
+    {
+        "codigo": "EST020",
+        "nombre": "Paula Moreno",
+        "edad": 21
+    },
+    {
+        "codigo": "EST021",
+        "nombre": "Manuel Ortega",
+        "edad": 20
+    },
+    {
+        "codigo": "EST022",
+        "nombre": "Natalia Jimenez",
+        "edad": 22
+    },
+    {
+        "codigo": "EST023",
+        "nombre": "Santiago Silva",
+        "edad": 23
+    },
+    {
+        "codigo": "EST024",
+        "nombre": "Valentina Gutierrez",
+        "edad": 19
+    },
+    {
+        "codigo": "EST025",
+        "nombre": "Fernando Pineda",
+        "edad": 21
+    },
+    {
+        "codigo": "EST026",
+        "nombre": "Monica Castillo",
+        "edad": 22
+    },
+    {
+        "codigo": "EST027",
+        "nombre": "Angel Guerrero",
+        "edad": 23
+    },
+    {
+        "codigo": "EST028",
+        "nombre": "Claudia Vargas",
+        "edad": 20
+    },
+    {
+        "codigo": "EST029",
+        "nombre": "Ricardo Peña",
+        "edad": 21
+    },
+    {
+        "codigo": "EST030",
+        "nombre": "Isabel Cordero",
+        "edad": 22
+    },
+    {
+        "codigo": "EST031",
+        "nombre": "Daniel Arevalo",
+        "edad": 19
+    },
+    {
+        "codigo": "EST032",
+        "nombre": "Alejandra Leon",
+        "edad": 23
+    },
+    {
+        "codigo": "EST033",
+        "nombre": "Tomos Serrano",
+        "edad": 20
+    },
+    {
+        "codigo": "EST034",
+        "nombre": "Veronica Espinoza",
+        "edad": 22
+    },
+    {
+        "codigo": "EST035",
+        "nombre": "Nicolas Martinez",
+        "edad": 21
+    },
+    {
+        "codigo": "EST036",
+        "nombre": "Patricia Carrillo",
+        "edad": 23
+    },
+    {
+        "codigo": "EST037",
+        "nombre": "Ignacio Cruz",
+        "edad": 20
+    },
+    {
+        "codigo": "EST038",
+        "nombre": "Marta Acosta",
+        "edad": 19
+    },
+    {
+        "codigo": "EST039",
+        "nombre": "Roberto Salazar",
+        "edad": 22
+    },
+    {
+        "codigo": "EST040",
+        "nombre": "Rosa Aguilar",
+        "edad": 21
+    },
+    {
+        "codigo": "EST041",
+        "nombre": "Esteban Quintana",
+        "edad": 20
+    },
+    {
+        "codigo": "EST042",
+        "nombre": "Daniela Fuentes",
+        "edad": 22
+    },
+    {
+        "codigo": "EST043",
+        "nombre": "Vicente Navarro",
+        "edad": 23
+    },
+    {
+        "codigo": "EST044",
+        "nombre": "Julia Campos",
+        "edad": 19
+    },
+    {
+        "codigo": "EST045",
+        "nombre": "Fabian Cabrera",
+        "edad": 21
+    },
+    {
+        "codigo": "EST046",
+        "nombre": "Adriana Espinosa",
+        "edad": 22
+    },
+    {
+        "codigo": "EST047",
+        "nombre": "Enrique Robles",
+        "edad": 23
+    },
+    {
+        "codigo": "EST048",
+        "nombre": "Renata Maldonado",
+        "edad": 20
+    },
+    {
+        "codigo": "EST049",
+        "nombre": "Pedro Montoya",
+        "edad": 21
+    },
+    {
+        "codigo": "EST050",
+        "nombre": "Victoria Suarez",
+        "edad": 22
+    }
+]
